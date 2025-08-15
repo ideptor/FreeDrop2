@@ -32,3 +32,9 @@ google-services.json
 
 # Android Profiling
 *.hprof
+
+
+# python venv
+venv
+.ipynb_checkpoints
+.python-version
